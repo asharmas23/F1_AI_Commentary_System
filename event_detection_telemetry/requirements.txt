@@ -1,0 +1,2 @@
+f1_22_telemetry==0.1.2
+structlog==25.2.0

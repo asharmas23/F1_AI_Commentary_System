@@ -76,6 +76,9 @@ Stay tuned for updates!
 git clone https://github.com/yourusername/F1_AI_Commentary_System.git
 cd F1_AI_Commentary_System
 
+# Install dependencies for all modules in one go
+pip install -r requirements.txt
+
 # Install dependencies for each module
 pip install -r UDP_Telemetry_Logger/requirements.txt
 pip install -r F1_AI_Dashboard_OOP/requirements.txt
